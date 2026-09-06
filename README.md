@@ -2,7 +2,7 @@
 
 **Senior Software Engineering Manager · AI Systems Architecture · Enterprise Integration**
 
-Taipei, Taiwan · Building software at [Tagfans]([https://www.tagfans.com/](https://bn.tagfans.com/erp-agent/index.html))
+Taipei, Taiwan · Building software at [Tagfans](https://bn.tagfans.com/erp-agent/index.html)
 
 I turn complex business workflows and domain knowledge into systems that people can use, verify, and maintain.
 

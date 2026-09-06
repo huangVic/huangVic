@@ -109,4 +109,4 @@ B.S. in Industrial Engineering and Management, I-Shou University
 ---
 
 Interested in enterprise AI, knowledge systems, ERP integration, or product engineering?  
-Reach me at **[volcomvic@msn.com](mailto:volcomvic@msn.com)**.
+Reach me at **[vic@tagfans.com](mailto:vic@tagfans.com)**.

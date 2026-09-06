@@ -21,7 +21,7 @@ With 15+ years in software engineering, my work spans enterprise ERP, restaurant
 
 ## Selected work
 
-These summaries describe my professional and independent work. The underlying repositories are private.
+These summaries describe my professional and independent work. Client identities and confidential operational details are omitted. The underlying repositories are private.
 
 ### Enterprise ERP & integration
 
@@ -53,7 +53,7 @@ Designed and built a fitness booking and membership platform across product plan
 - **Bobitag & 3-Day Angel:** real-time messaging, synchronized media playback, video interaction, and social product features.
 - **Cliotu & location-based dining services:** map interfaces, location-aware experiences, Node.js APIs, and text-to-speech integration.
 - **Cloud printing & tablet ordering:** mobile ordering, MQTT integration, caching, and connection handling in restaurant environments.
-- **OVO remote-control WebApp:** React interfaces, account flows, media API integration, and voice search.
+- **Connected-TV remote-control WebApp:** React interfaces, account flows, media API integration, and voice search.
 
 </details>
 
